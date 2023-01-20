@@ -1,0 +1,19 @@
+{
+	"Language": "en",
+	"MainColor": "#9900FF",
+	"BroadCast": false,
+	"EncryptFeature": true,
+	"PreKey": "Anniversary",
+	"Uptime": true,
+	"AutoRestartMinutes": 30,
+	"MainName": "[ PurpLe HunTer ]",
+	"HTML": {
+		"UserName": "Guest",
+		"MusicLink": "https://drive.google.com/u/0/uc?id=1noue8Ten2LvFrhIxQvall7T1Z6kwO5vn&export=download",
+		"HTML": true
+	},
+	"AutoUpdate": true,
+	"AutoLogin": false,
+	"ResetDataLogin": false,
+	"Login2Fa": false
+}
